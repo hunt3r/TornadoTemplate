@@ -1,4 +1,16 @@
-TornadoTemplate
-===============
+#TornadoTemplate
 
-A tornado quick start template
+A tornado quick start template.
+
+##Install
+
+```
+cd src
+./install.sh
+```
+
+##Run the App
+
+```
+python app.py
+```
